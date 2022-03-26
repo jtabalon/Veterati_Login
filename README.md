@@ -13,3 +13,8 @@ I noticed the inefficiency of logging into the website through a number of unnec
 Upon doing further research, it became clear to me to use a package called __Selenium__. This package is used primarily as a web-based tool for automation, which seemed perfect for the task at hand. 
 
 This meant going through the documentation, and understanding the different ways to extract the fields needed to be "clicked" and "send_keys" to. This also meant the installation of the __chromedriver__, which is an open source tool for automation that allows for the browser to execute these Selenium functions. 
+
+# 25 March 2022
+TODO: 
+- update email settings etc.
+- update README
