@@ -1,3 +1,6 @@
+**Update (25 September 2024)**
+- Unfortunately, Veterati was sunsetted in late August 2024. 
+
 # Veterati Log In - Quick Script
 
 ## What is Veterati?
